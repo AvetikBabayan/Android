@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
 
         if (labelString.length>8) {
             didPressedClear()
-            mainText1.text ="BIGGY"
+            mainText1.text ="TOO BIGGY"
             return
         }
 
